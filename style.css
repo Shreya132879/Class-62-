@@ -1,0 +1,19 @@
+.line {
+    height: 10px;
+    width: 100px;
+    background-color: fuchsia;
+    margin: auto;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#ee70da 0%, #6fd5ed 100%);
+    opacity: 0.9;
+}
+#games {
+    background-color: aqua;
+}
+p {
+    font-size: 50px;
+    color: floralwhite;
+}
